@@ -1,0 +1,1 @@
+Um repositório para salvar todas as anotações e desafios referentes ao curso de Algoritmos do professor Gustavo Guanabara >.<
